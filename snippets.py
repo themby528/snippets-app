@@ -8,7 +8,7 @@ def put(name, snippet):
     Store a snippet with an associated name.
     Returns the name and snippet
     """
-    logging.error("FIXME: Unimplemented - put ({!r}, {!r})".format(name,sinppet))
+    logging.error("FIXME: Unimplemented - put ({!r}, {!r})".format(name,snippet))
     return name, snippet
 
 def get(name):
