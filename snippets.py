@@ -17,6 +17,6 @@ def get(name):
     If there is no such snippet provide error message and ask user if they would like to create the snippet
     Returns the snippet.
     """
-    logging.erro("FIXME: Unimplemented - get({!r})".format(name))
+    logging.error("FIXME: Unimplemented - get({!r})".format(name))
     return ""
     
